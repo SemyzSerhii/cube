@@ -1,0 +1,28 @@
+body { overflow: hidden }
+
+section, div{ font-size: 0 }
+
+section{
+  width: 25vw;
+  height: 25vh;
+  display: inline-block;
+  vertical-align: top;
+  white-space: nowrap;
+}
+
+.red    { background-color: red }
+.blue   { background-color: blue }
+.green  { background-color: green }
+.black  { background-color: black }
+.white  { background-color: white }
+.orange { background-color: #FFA500 }
+.w      { background-color: #9ACD32 }
+.r      { background-color: #98FB98 }
+.e      { background-color: #00FFFF }
+.q      { background-color: #8FBC8F }
+.t      { background-color: #FF00FF}
+.y      { background-color: #808080 }
+.u      { background-color: #800080 }
+.i      { background-color: #BDB76B }
+.o      { background-color: #808000 }
+.p      { background-color: #F08080 }
